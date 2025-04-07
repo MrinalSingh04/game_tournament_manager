@@ -65,10 +65,7 @@ Traditional online gaming tournaments often rely on **centralized platforms** wh
 ## 🔐 Security Notes
 
 - Winner is **manually selected** by the owner — this assumes fair play or could be connected to off-chain validation like match results.
-- Consider adding features like:
-  - NFT/POAP minting for participants
-  - DAO-based voting for winners
-  - Oracles to fetch off-chain results
+- 
 - Withdrawals are auto-handled; no leftover ETH stays stuck in the contract.
 
 ---
@@ -79,6 +76,4 @@ MIT
 
 ---
 
-## 🙌 Built as part of Day 58 of the #100DaysOfCode challenge
 
-Follow the journey: [your_twitter_or_linkedin_here]
