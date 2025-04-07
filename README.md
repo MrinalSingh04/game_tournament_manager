@@ -65,7 +65,7 @@ Traditional online gaming tournaments often rely on **centralized platforms** wh
 ## 🔐 Security Notes
 
 - Winner is **manually selected** by the owner — this assumes fair play or could be connected to off-chain validation like match results.
-- 
+
 - Withdrawals are auto-handled; no leftover ETH stays stuck in the contract.
 
 ---
